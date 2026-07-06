@@ -80,6 +80,7 @@ proyecto-acme-macondo/
 ---
 
 ## 🗄️ Estructura de Datos en Firebase
+Ejemplo:
 
 ### Nodo: `usuarios`
 
@@ -88,7 +89,7 @@ proyecto-acme-macondo/
   "usuarios": {
     "-O1AbC2dE3fG4hI5jK6l": {
       "identificacion": "123456789",
-      "nombreCompleto": "Juan Perez",
+      "nombreCompleto": "Leo Escalona",
       "cargo": "Administrador",
       "password": "****",
       "fechaRegistro": "2024-01-15T10:30:00.000Z"
